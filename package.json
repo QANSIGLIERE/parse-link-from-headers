@@ -1,0 +1,34 @@
+{
+  "name": "qansigliere-parse-link-from-headers",
+  "version": "0.0.1",
+  "description": "The main idea of ​​this library created in the JavaScript language is to parse data from server response headers and define next link for upload. It can be used for Github and Gitlab API integrations",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QANSIGLIERE/parse-link-from-headers.git"
+  },
+  "keywords": [
+    "github",
+    "gitlab",
+    "api",
+    "headers",
+    "response",
+    "next",
+    "link",
+    "key",
+    "qansigliere"
+  ],
+  "author": "qansigliere@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QANSIGLIERE/parse-link-from-headers/issues"
+  },
+  "homepage": "https://github.com/QANSIGLIERE/parse-link-from-headers#readme",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "typescript": "^5.7.3"
+  }
+}
